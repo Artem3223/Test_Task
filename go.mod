@@ -1,3 +1,3 @@
-module Task_Test
+module Task_Go
 
 go 1.20
